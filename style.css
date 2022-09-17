@@ -412,3 +412,9 @@ img {
   font-family: "Open Sans", sans-serif;
   text-align: center;
 }
+.process_img {
+  width: 450px;
+  height: 450px;
+  display: flex;
+  align-items: center;
+}
