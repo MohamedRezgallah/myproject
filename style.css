@@ -423,3 +423,47 @@ img {
   top: 180px;
   left: 170px;
 }
+.bi-camera-fill {
+  color: white;
+  position: relative;
+  top: 41px;
+  left: -76px;
+}
+.bi-camera-fill-bg {
+  clip-path: circle(50% at 50% 50%);
+  background-color: #4e4d4d;
+  border-radius: 100px;
+}
+.bi-camera-fill-bg:hover {
+  background-color: #12db9f;
+}
+.text_process {
+  width: 485px;
+  position: relative;
+  top: -292px;
+  left: 880px;
+}
+.title_process {
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.473);
+}
+.description-process {
+  color: rgba(255, 255, 255, 0.473);
+}
+.title_process:hover {
+  color: rgba(255, 255, 255, 0.945);
+}
+.description-process:hover {
+  color: rgba(255, 255, 255, 0.945);
+}
+.line8 {
+  width: 50px;
+  height: 1.5px;
+  background-color: rgba(206, 206, 206, 0.945);
+  position: relative;
+  top: -12px;
+}
+.line8:hover {
+  background-color: rgba(255, 255, 255, 0.945);
+}
