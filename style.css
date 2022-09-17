@@ -415,6 +415,11 @@ img {
 .process_img {
   width: 450px;
   height: 450px;
-  display: flex;
-  align-items: center;
+}
+.bprocess_img {
+  height: 500px;
+  width: 0;
+  position: relative;
+  top: 180px;
+  left: 170px;
 }
