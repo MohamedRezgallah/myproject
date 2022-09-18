@@ -471,3 +471,20 @@ img {
   height: 100vh;
   width: 100%;
 }
+.creativity {
+  height: 65vh;
+  z-index: 1;
+}
+.symbole {
+  color: white;
+}
+.creativity_pra {
+  z-index: 99;
+  text-align: center;
+  font-size: 48px;
+  color: white;
+  font-weight: 300;
+  align-items: center;
+  position: relative;
+  bottom: 380px;
+}
